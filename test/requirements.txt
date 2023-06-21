@@ -1,0 +1,6 @@
+tensorflow
+pandas 
+scikit-learn
+pillow
+sagemaker
+opencv-python

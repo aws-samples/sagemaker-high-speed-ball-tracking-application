@@ -1,0 +1,4 @@
+piexif 
+pandas 
+scikit-learn
+pillow
