@@ -42,8 +42,8 @@ Please refer to the following [IAM policy examples](https://docs.aws.amazon.com/
 To get started, you need to clone the project into your SageMaker Studio environment:
 
 ```
-> git clone https://github.com/wei-m-teh/sagemaker-tracknet-v2
-> cd sagemaker-tracknet-v2
+> git clone https://github.com/aws-samples/sagemaker-high-speed-ball-tracking-application
+> cd sagemaker-high-speed-ball-tracking-application
 ```
 
 
